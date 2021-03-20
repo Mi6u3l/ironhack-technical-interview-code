@@ -161,3 +161,23 @@ function checkPalindrome(str) {
 
 
 
+<<<<<<< HEAD
+=======
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>>>>>>> 3c88f8fe04915ba9fe7ea95e12c60df1fccecfc0
